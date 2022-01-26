@@ -53,3 +53,4 @@ dkms.conf
 
 #ide
 Arithmetic.*
+workspace.code-workspace
