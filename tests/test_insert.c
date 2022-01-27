@@ -1,5 +1,5 @@
 #include "../include/all.h"
-#include "insert.c"
+#include "../src/insert.c"
 
 int *sortByUsingInsertSort(int *array, int len);
 int main()
