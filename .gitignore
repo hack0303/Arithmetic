@@ -58,3 +58,12 @@ workspace.code-workspace
 .vscode/launch.json
 .vscode/settings.json
 .vscode/tasks.json
+build/CMakeFiles/cmake.check_cache
+build/CMakeFiles/CMakeError.log
+build/CMakeFiles/CMakeOutput.log
+build/CMakeFiles/3.6.2/CMakeRCCompiler.cmake
+build/CMakeFiles/3.6.2/CMakeSystem.cmake
+build/CMakeFiles/3.6.2/CompilerIdC/CMakeCCompilerId.c
+build/CMakeFiles/3.6.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+.gitignore
+build/CMakeCache.txt

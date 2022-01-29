@@ -1,7 +1,7 @@
 #include <all.h>
-#include "../../cate_insert/insert.c"
+//#include "../../cate_insert/insert.c"
 
-int *sortByUsingInsertSort(int *array, int len);
+extern int *sortByUsingInsertSort(int *array, int len);
 int main()
 {
     printf("------\n");
